@@ -5,8 +5,8 @@ const Header = () => {
     return (
         <header>
             <nav>
-            <img src='' alt='PJ Duimstra Logo'/>
                 <ul>
+                    <li><h1>PJ</h1></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#projects">Projects</a></li>
                     <li><a href="#contact">Contact</a></li>
